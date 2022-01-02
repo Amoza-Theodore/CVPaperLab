@@ -1,0 +1,7 @@
+import settings
+
+DATASET_TYPE = settings.DATASET_TYPE
+DATA_DIR = settings.DATA_DIR
+IMAGE_SIZE = settings.IMAGE_SIZE
+TRAIN_BATCH_SIZE = settings.TRAIN_BATCH_SIZE
+VALID_BATCH_SIZE = settings.VALID_BATCH_SIZE
